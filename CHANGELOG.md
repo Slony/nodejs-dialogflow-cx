@@ -1,5 +1,13 @@
 # Changelog
 
+## [2.16.0](https://github.com/googleapis/nodejs-dialogflow-cx/compare/v2.15.0...v2.16.0) (2022-03-18)
+
+
+### Features
+
+* added page in TestConfig ([7adaf67](https://github.com/googleapis/nodejs-dialogflow-cx/commit/7adaf6735cbef19d38e1288fd40ea27cf595b20f))
+* added page in TestConfig ([#239](https://github.com/googleapis/nodejs-dialogflow-cx/issues/239)) ([283c389](https://github.com/googleapis/nodejs-dialogflow-cx/commit/283c389cc220b9f192f15822ef2d1e38f35d6103))
+
 ## [2.15.0](https://github.com/googleapis/nodejs-dialogflow-cx/compare/v2.14.0...v2.15.0) (2022-01-19)
 
 
